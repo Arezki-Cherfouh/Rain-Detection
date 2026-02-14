@@ -115,7 +115,3 @@ Analog: 267 | Digital: 1 | Status: No rain. Moving clothes OUTSIDE...
 ## License
 
 MIT - Free for learning and modification
-
-```
-
-```
